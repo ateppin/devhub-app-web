@@ -12,6 +12,16 @@
       {
         "sourceType": "web",
         "sourceProperties": {
+          "url": "https://citz.sp.gov.bc.ca/sites/ES/ASP/EA/MS_Dynamics/MS Dynamics Wiki/FAQ.aspx",
+          "author": "",
+          "title": "Dynamics 365 FAQ",
+          "description": "Dynamics 365 FAQ covers ordering & provisioning",
+          "image": ""
+        }
+      },
+      {
+        "sourceType": "web",
+        "sourceProperties": {
           "resourceType": "Self-Service Tools",
           "title": "OpenShift Developer Console",
           "description": "This guide is intended for application developers, and provides instructions for setting up and configuring a workstation to develop and deploy applications in an OpenShift Container Platform.",
